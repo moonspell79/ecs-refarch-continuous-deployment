@@ -30,7 +30,7 @@ your GitHub account.
 From your terminal application, execute the following command (make sure to
 replace `<your_github_username>` with your actual GitHub username):
 
-```console
+```consol
 git clone https://github.com/<your_github_username>/ecs-demo-php-simple-app
 ```
 
